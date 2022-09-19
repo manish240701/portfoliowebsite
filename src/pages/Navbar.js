@@ -35,16 +35,8 @@ const Navbar = () =>{
                 </li>
 
                 <li className="nav-item me-3">
-                    <a className="nav-link color-white" href="#contact">contact</a>
-                </li>
-
-                <li className="quick-links">
-                    <a className="nav-link color-white" href="https://manish240701.github.io/leo/">
-                        <span className="black">Reach Me</span>
-                    </a>
-
-                </li>
-                
+                    <a className="nav-link color-white" href="https://manish240701.github.io/leo/" target="_blank">contact</a>
+                </li>               
             </ul>
             </div>
         </div>
